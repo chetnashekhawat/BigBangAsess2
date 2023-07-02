@@ -8,8 +8,10 @@ React -Application(Cleo-Grace Hospital Web Portal for Different User Based Acces
 
 
 ![Screenshot 2023-07-03 023654](https://github.com/chetnashekhawat/BigBangAsess2/assets/125029902/98fa8418-0e57-4410-9067-2c47989d6b7a)
-![Screenshot 2023-07-03 023724](https://github.com/chetnashekhawat/BigBangAsess2/assets/125029902/85008155-b871-47c6-ab41-92446964c145)
-![Screenshot 2023-07-03 023724](https://github.com/chetnashekhawat/BigBangAsess2/assets/125029902/b7663988-120e-427f-b21c-bc62
+
+![Screenshot 2023-07-03 023724](https://github.com/chetnashekhawat/BigBangAsess2/assets/125029902/20222cbd-8e5c-4017-98a4-a66259480e09)
+964c145)
+
 ![Screenshot 2023-07-03 023740](https://github.com/chetnashekhawat/BigBangAsess2/assets/125029902/cd8261ae-deb0-43c3-9352-f7991db18a44)
 ac02e395)
 
