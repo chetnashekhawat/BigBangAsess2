@@ -17,6 +17,11 @@ ac02e395)
 
 ![Screenshot 2023-07-03 023817](https://github.com/chetnashekhawat/BigBangAsess2/assets/125029902/b95ac50e-2435-4c86-acba-4f93c7cd553f)
 
+![Screenshot 2023-07-03 023551](https://github.com/chetnashekhawat/BigBangAsess2/assets/125029902/673c3ff0-9e89-4f2a-a78c-4c199044fef6)
+
+![Screenshot 2023-07-03 024911](https://github.com/chetnashekhawat/BigBangAsess2/assets/125029902/ee84159e-a810-4e8f-ac21-053cafb85d73)
+
+
 
 
 
