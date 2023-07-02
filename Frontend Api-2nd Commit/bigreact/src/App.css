@@ -1,0 +1,275 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+.title {
+  color: rgb(0, 119, 170);
+}
+.div1 {
+  background-color: lightblue;
+}
+
+.div2 {
+  background-color: lightgreen;
+}
+
+.div3 {
+  background-color: lightpink;
+}
+
+.div4 {
+  background-color: lightyellow;
+}
+.custom-table {
+  border-collapse: collapse;
+  width: 100%;
+  background-color: #f2f2f2; /* Grey background color */
+}
+
+.custom-table th,
+.custom-table td {
+  padding: 10px;
+  text-align: left;
+}
+
+.table-row:hover {
+  background-color: #d9d9d9; /* Hover background color */
+  cursor: pointer;
+}
+.table-colored {
+  background-color: #f7f7f7;
+}
+.not-available {
+  background-color: lightcoral;
+  padding: 10px;
+}
+
+.fruits-list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.fruits-list li {
+  background-color: lightgray;
+  padding: 8px;
+  margin-bottom: 4px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.Mystyle{
+  background-color: blueviolet;
+  color: rgb(42, 49, 52);
+  font-family:Georgia, 'Times New Roman', Times, serif;
+
+}
+.MyYellowBg{
+  background-color: yellow;
+}
+
+.MyBrownBg{
+  background-color: rgb(227, 227, 185);
+}
+.img{
+height: 300px;
+width: 300px;
+}
+.img2{
+  height: 300px;
+  width: 300px;
+  
+}
+.img3{
+  height: 300px;
+  width: 300px;
+  
+}
+.font-large {
+  font-size: 50px;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.container-fluid {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.footer {
+  margin-top: auto;
+}
+.email-card {
+  background-color: #e2f0f9;
+}
+
+.phone-card {
+  background-color: #7fc272;
+}
+
+.assistant-card {
+  background-color: #f9ebf0;
+}
+
+.home-container {
+  background-color: #f8f8f8;
+}
+
+.about-container {
+  background-color: #f5f5f5;
+}
+
+.services-container {
+  background-color: #e8d6d6;
+}
+
+.contact-container {
+  background-color: #f9f9f9;
+}
+.navbar-nav .nav-link.active {
+  color: blue;
+  text-decoration: underline;
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.heading {
+  font-family: 'Arial', sans-serif;
+  font-size: 32px;
+  color: #333;
+  text-align: center;
+  margin-top: 20px;
+  text-decoration: underline;
+}
+
+
+.student-gif {
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 10px;
+  width: 100px; /* Adjust the width as desired */
+  height: 100px; /* Adjust the height as desired */
+}
+/* Login.css */
+
+.custom-card {
+  background-color: #f8f9fa;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+  color: #333;
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+label {
+  color: #666;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.errmsg {
+  color: red;
+}
+
+.form-control {
+  border-radius: 5px;
+}
+
+.btn-primary {
+  background-color: #616569;
+  border-color: #007bff;
+}
+
+.btn-primary:hover {
+  background-color: #0069d9;
+  border-color: #0062cc;
+}
+
+.btn-success {
+  background-color: #28a745;
+  border-color: #28a745;
+}
+
+.btn-success:hover {
+  background-color: #218838;
+  border-color: #1e7e34;
+}
+.image-container1 {
+  border: none;
+  padding: 0;
+}
+.custom-cardd {
+  border: none;
+}
